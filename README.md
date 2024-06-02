@@ -6,6 +6,7 @@ Week- 1
 Resources have been added.
 Updated till libraries
 Snippets added
+
 Week - 2
 
 RDKit module added
